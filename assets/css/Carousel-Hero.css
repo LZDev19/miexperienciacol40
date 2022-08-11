@@ -1,0 +1,109 @@
+@media (min-width: 700px) {
+  div.jumbotron.carousel-hero {
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 0;
+    height: 630px;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature1 {
+    background-image: url('../../assets/img/adsi1.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature2 {
+    background-image: url('../../assets/img/adsi2.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature3 {
+    background-image: url('../../assets/img/adsi3.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature4 {
+    background-image: url('../../assets/img/adsi4.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature5 {
+    background-image: url('../../assets/img/adsi5.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature6 {
+    background-image: url('../../assets/img/adsi6.jpg');
+    background-position: -620px;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 700px) {
+  div.jumbotron.hero-nature6 {
+    background-image: url('../../assets/img/adsi6.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature7 {
+    background-image: url('../../assets/img/adsi7.jpg');
+    background-position: -530px;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 700px) {
+  div.jumbotron.hero-nature7 {
+    background-image: url('../../assets/img/adsi7.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 300px) {
+  div.jumbotron.hero-nature8 {
+    background-image: url('../../assets/img/adsi8.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 700px) {
+  h1.hero-title, h2.hero-title, h3.hero-title {
+    text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+    color: #fff;
+    font-size: 60px;
+    padding-top: 476px;
+  }
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
